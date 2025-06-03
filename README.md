@@ -9,7 +9,7 @@ The goal of this project is to analyze the global impact of the COVID-19 pandemi
 ## 📁 **Data Source:**
 
 * Dataset: OWID COVID-19 Data (Our World in Data)
-* Format: CSV
+* Format: CSV (https://ourworldindata.org/covid-cases)
 * Columns used:
   * `location`
   * `date`
