@@ -8,10 +8,9 @@ The goal of this project is to analyze the global impact of the COVID-19 pandemi
 
 ## 📁 **Data Source:**
 
-* Dataset: OWID COVID-19 Data (Our World In Data)
+* Dataset: OWID COVID-19 Data (Kaggle)
 * Format: CSV
 * Columns used:
-
   * `location`
   * `date`
   * `total_cases`
